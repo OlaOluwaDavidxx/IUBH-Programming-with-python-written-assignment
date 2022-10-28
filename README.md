@@ -53,6 +53,19 @@
     └── load_data_controller.py    # Handles preprocessing and loading
 ```
 
+### Additional Task
+-fork repo for "develop"
+-git clone repo(forked) link
+-git checkout -b (new branch) 
+-git remote add upstream (forked repo link)
+upon making changes to code, execute the next step.
+-git add -A
+-git commit -m "Add message"
+-git push -u origin develop
+return to github and make a compare and pull request
+create a pull request and wait for the main branch owner to merge
+
+
 ### Miscellaneous
 - ```__init__.py``` convert the folder to python package
 - The figures generated are in html format. It opens automatically in the browser. They can as well be opened manually
